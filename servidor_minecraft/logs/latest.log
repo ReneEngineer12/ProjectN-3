@@ -71,3 +71,4 @@
 [23:39:17] [Server thread/INFO]: DonPepsi[/127.237.38.199:44715] logged in with entity id 63041 at (140.7831404183021, 91.0, -26.725147586658657)
 [23:39:17] [Server thread/INFO]: DonPepsi joined the game
 [23:44:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=40, y=52, z=93} jb{x=40, y=55, z=95}
+[23:47:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=39, y=64, z=88} jb{x=40, y=62, z=89}
