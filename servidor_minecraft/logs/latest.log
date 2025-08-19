@@ -63,3 +63,11 @@
 [23:33:36] [Server thread/INFO]: [Not Secure] <dieggox> hola lindo
 [23:33:55] [Server thread/INFO]: [Not Secure] <DonPepsi> ( ͡° ͜ʖ ͡°)
 [23:34:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=33, y=63, z=91} jb{x=29, y=57, z=86}
+[23:35:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=32, y=58, z=92} jb{x=28, y=56, z=93}
+[23:35:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=32, y=58, z=92} jb{x=29, y=59, z=95}
+[23:35:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=34, y=55, z=94} jb{x=38, y=58, z=96}
+[23:39:04] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[23:39:04] [Server thread/INFO]: DonPepsi left the game
+[23:39:17] [Server thread/INFO]: DonPepsi[/127.237.38.199:44715] logged in with entity id 63041 at (140.7831404183021, 91.0, -26.725147586658657)
+[23:39:17] [Server thread/INFO]: DonPepsi joined the game
+[23:44:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=40, y=52, z=93} jb{x=40, y=55, z=95}
