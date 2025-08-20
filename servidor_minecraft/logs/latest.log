@@ -35,3 +35,4 @@
 [20:06:57] [Server thread/INFO]: Done (9.411s)! For help, type "help"
 [20:07:13] [Server thread/INFO]: fofi[/127.253.85.87:44467] logged in with entity id 20 at (176.70200433969637, 63.0, 44.2194571384062)
 [20:07:13] [Server thread/INFO]: fofi joined the game
+[20:39:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=160, y=61, z=209} jb{x=160, y=62, z=209}
