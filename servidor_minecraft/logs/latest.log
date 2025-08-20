@@ -36,3 +36,7 @@
 [20:07:13] [Server thread/INFO]: fofi[/127.253.85.87:44467] logged in with entity id 20 at (176.70200433969637, 63.0, 44.2194571384062)
 [20:07:13] [Server thread/INFO]: fofi joined the game
 [20:39:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=160, y=61, z=209} jb{x=160, y=62, z=209}
+[20:52:31] [Server thread/INFO]: fofi lost connection: Timed out
+[20:52:31] [Server thread/INFO]: fofi left the game
+[20:52:31] [Server thread/WARN]: handleDisconnection() called twice
+[20:53:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
