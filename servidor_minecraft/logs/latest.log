@@ -33,3 +33,12 @@
 [22:25:33] [Server thread/INFO]: Done (8.371s)! For help, type "help"
 [22:25:35] [Server thread/INFO]: DonPepsi[/127.253.85.87:38959] logged in with entity id 20 at (-100.08935509883233, 63.0, -33.66767888593494)
 [22:25:35] [Server thread/INFO]: DonPepsi joined the game
+[23:15:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=144, y=14, z=-24} jb{x=152, y=13, z=-24}
+[23:20:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=30, y=58, z=-39} jb{x=15, y=83, z=-1}
+[23:24:44] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[23:24:44] [Server thread/INFO]: DonPepsi left the game
+[23:25:33] [Server thread/INFO]: Made God a server operator
+[23:25:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:25:49] [Server thread/INFO]: God[/127.253.85.87:41249] logged in with entity id 12377 at (-816.6999999880791, 34.87556659881321, -248.69999998807907)
+[23:25:49] [Server thread/INFO]: God joined the game
+[23:25:58] [Server thread/INFO]: Made God a server operator
