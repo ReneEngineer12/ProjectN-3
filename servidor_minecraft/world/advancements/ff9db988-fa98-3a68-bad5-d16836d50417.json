@@ -1,19 +1,15 @@
 {
-  "minecraft:recipes/food/cooked_porkchop": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_porkchop": "2025-08-06 21:54:09 +0000"
+      "unlock_right_away": "2025-08-06 21:50:54 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-08-06 21:51:59 +0000",
-      "minecraft:nether_wastes": "2025-08-06 21:52:27 +0000",
-      "minecraft:soul_sand_valley": "2025-08-06 21:53:28 +0000",
-      "minecraft:basalt_deltas": "2025-08-06 21:53:04 +0000",
-      "minecraft:warped_forest": "2025-08-06 21:52:33 +0000"
+      "minecraft:sparse_jungle": "2025-08-06 21:50:55 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -27,15 +23,19 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "loot_bastion_hoglin_stable": "2025-08-06 21:54:18 +0000"
+      "minecraft:crimson_forest": "2025-08-06 21:51:59 +0000",
+      "minecraft:nether_wastes": "2025-08-06 21:52:27 +0000",
+      "minecraft:soul_sand_valley": "2025-08-06 21:53:28 +0000",
+      "minecraft:basalt_deltas": "2025-08-06 21:53:04 +0000",
+      "minecraft:warped_forest": "2025-08-06 21:52:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "unlock_right_away": "2025-08-06 21:50:54 +0000"
+      "bastion": "2025-08-06 21:53:19 +0000"
     },
     "done": true
   },
@@ -52,6 +52,18 @@
     },
     "done": false
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:hoglin": "2025-08-06 21:54:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-06 21:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-06 21:54:09 +0000"
@@ -64,21 +76,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "minecraft:hoglin": "2025-08-06 21:54:08 +0000"
+      "loot_bastion_hoglin_stable": "2025-08-06 21:54:18 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/misc/nether_brick": {
     "criteria": {
-      "minecraft:sparse_jungle": "2025-08-06 21:50:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-08-06 21:53:19 +0000"
+      "has_netherrack": "2025-08-20 23:26:40 +0000"
     },
     "done": true
   },
