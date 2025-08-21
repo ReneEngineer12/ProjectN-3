@@ -34,3 +34,6 @@
 [16:46:37] [Server thread/INFO]: Done (8.842s)! For help, type "help"
 [16:46:40] [Server thread/INFO]: DonPepsi[/127.237.38.199:35733] logged in with entity id 31 at (116.43517710507308, 91.0, -24.580128380595077)
 [16:46:40] [Server thread/INFO]: DonPepsi joined the game
+[17:22:30] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[17:22:30] [Server thread/INFO]: DonPepsi left the game
+[17:23:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
