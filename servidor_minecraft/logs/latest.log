@@ -39,3 +39,9 @@
 [19:03:32] [Server thread/INFO]: DonPepsi left the game
 [19:14:35] [Server thread/INFO]: DonPepsi[/127.237.38.199:49485] logged in with entity id 6056 at (34.13609010696738, 61.9350445531608, 264.8154046526057)
 [19:14:35] [Server thread/INFO]: DonPepsi joined the game
+[19:31:42] [Server thread/WARN]: DonPepsi moved too quickly! 8.525050176671357,-4.784105654461264,3.5400954376710274
+[19:31:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[19:38:58] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[19:38:58] [Server thread/INFO]: DonPepsi left the game
+[19:40:50] [Server thread/INFO]: DonPepsi[/127.237.38.199:58597] logged in with entity id 19798 at (2880.300000011921, 113.0, -224.36726614409795)
+[19:40:50] [Server thread/INFO]: DonPepsi joined the game
