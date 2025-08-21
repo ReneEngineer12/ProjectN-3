@@ -2706,12 +2706,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
-    "criteria": {
-      "has_pink_petals": "2025-08-21 20:09:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
     "criteria": {
       "has_wildflowers": "2025-08-21 19:50:26 +0000"
@@ -2721,6 +2715,12 @@
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-08-21 19:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-08-21 20:09:14 +0000"
     },
     "done": true
   },
