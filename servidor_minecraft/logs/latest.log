@@ -5,3 +5,6 @@
 [00:09:12] [Server thread/INFO]: [Not Secure] <dieggox> mi portal
 [00:09:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=8, y=92, z=71} jb{x=14, y=86, z=71}
 [00:10:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=101, z=71} jb{x=8, y=93, z=71}
+[01:24:35] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:24:35] [Server thread/INFO]: say<--[HERE]
+[01:24:43] [Server thread/INFO]: [Not Secure] [Server] estai won
