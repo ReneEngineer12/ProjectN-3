@@ -27,3 +27,9 @@
 [03:19:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=27, z=-34} jb{x=79, y=28, z=-34}
 [03:20:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=69, y=38, z=-34} jb{x=67, y=40, z=-33}
 [03:22:20] [Server thread/INFO]: fofi has made the advancement [Ol' Betsy]
+[03:24:31] [Server thread/INFO]: DonPepsi was doomed to fall by Zombified Piglin
+[03:25:07] [Server thread/INFO]: Made DonPepsi a server operator
+[03:25:29] [Server thread/INFO]: [DonPepsi: Set own game mode to Creative Mode]
+[03:25:39] [Server thread/INFO]: [DonPepsi: Set own game mode to Spectator Mode]
+[03:26:02] [Server thread/INFO]: [DonPepsi: Set own game mode to Creative Mode]
+[03:26:04] [Server thread/INFO]: [DonPepsi: Set own game mode to Survival Mode]
