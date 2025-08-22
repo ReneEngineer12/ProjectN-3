@@ -22,3 +22,8 @@
 [03:11:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=85, y=17, z=-48} jb{x=70, y=17, z=-48}
 [03:12:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [03:12:59] [Server thread/INFO]: AASDADS<--[HERE]
+[03:16:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=44, y=19, z=15} jb{x=48, y=16, z=23}
+[03:19:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=85, y=22, z=-33} jb{x=86, y=21, z=-33}
+[03:19:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=79, y=27, z=-34} jb{x=79, y=28, z=-34}
+[03:20:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=69, y=38, z=-34} jb{x=67, y=40, z=-33}
+[03:22:20] [Server thread/INFO]: fofi has made the advancement [Ol' Betsy]
