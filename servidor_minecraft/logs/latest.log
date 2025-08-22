@@ -3,3 +3,5 @@
 [00:08:44] [Server thread/INFO]: [Not Secure] <dieggox> que cosa
 [00:08:52] [Server thread/INFO]: [Not Secure] [Server] las coordenada
 [00:09:12] [Server thread/INFO]: [Not Secure] <dieggox> mi portal
+[00:09:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=8, y=92, z=71} jb{x=14, y=86, z=71}
+[00:10:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=101, z=71} jb{x=8, y=93, z=71}
