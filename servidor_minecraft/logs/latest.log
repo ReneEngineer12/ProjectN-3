@@ -80,3 +80,10 @@
 [20:35:52] [Server thread/INFO]: [God: Teleported God to 0.500000, 61.000000, 0.500000]
 [20:41:50] [Server thread/INFO]: DonPepsi[/127.237.38.199:42359] logged in with entity id 63658 at (207.38485980299853, 30.25541853689005, -155.40386067845256)
 [20:41:51] [Server thread/INFO]: DonPepsi joined the game
+[20:42:05] [Server thread/INFO]: fofi lost connection: Timed out
+[20:42:05] [Server thread/INFO]: fofi left the game
+[20:42:06] [Server thread/WARN]: handleDisconnection() called twice
+[20:42:20] [Server thread/INFO]: God lost connection: Disconnected
+[20:42:20] [Server thread/INFO]: God left the game
+[20:51:52] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[20:51:52] [Server thread/INFO]: DonPepsi left the game
