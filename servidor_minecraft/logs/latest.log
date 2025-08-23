@@ -1,47 +1,22 @@
-[20:42:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:42:07] [ServerMain/INFO]: Loaded 1407 recipes
-[20:42:07] [ServerMain/INFO]: Loaded 1520 advancements
-[20:42:07] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[20:42:07] [Server thread/INFO]: Loading properties
-[20:42:07] [Server thread/INFO]: Default game type: SURVIVAL
-[20:42:07] [Server thread/INFO]: Generating keypair
-[20:42:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:42:07] [Server thread/INFO]: Using epoll channel type
-[20:42:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:42:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:42:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:42:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:42:07] [Server thread/INFO]: Preparing level "world"
-[20:42:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:42:16] [Server thread/INFO]: Time elapsed: 8562 ms
-[20:42:16] [Server thread/INFO]: Done (9.168s)! For help, type "help"
-[20:42:22] [Server thread/INFO]: DonPepsi[/127.253.85.87:35243] logged in with entity id 29 at (47.51403781086162, 57.0, -34.29484613029045)
-[20:42:22] [Server thread/INFO]: DonPepsi joined the game
-[20:44:22] [Server thread/INFO]: fofi[/127.253.85.87:51057] logged in with entity id 669 at (141.12873291800935, 91.0, -24.184044969733797)
-[20:44:22] [Server thread/INFO]: fofi joined the game
-[20:59:59] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[20:59:59] [Server thread/INFO]: DonPepsi left the game
-[21:00:03] [Server thread/INFO]: DonPepsi[/127.253.85.87:54293] logged in with entity id 6590 at (41.30000001192093, 59.0, -34.532879380506884)
-[21:00:03] [Server thread/INFO]: DonPepsi joined the game
-[21:07:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=135, y=92, z=-24} jb{x=136, y=91, z=-22}
-[21:39:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=139, y=80, z=-41} jb{x=132, y=84, z=-35}
-[21:41:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=133, y=80, z=-37} jb{x=133, y=80, z=-34}
-[21:43:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=149, y=81, z=-33} jb{x=135, y=84, z=-19}
-[22:26:05] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-39, y=38, z=-167} jb{x=117, y=91, z=-16}
+[00:00:32] [Server thread/INFO]: DonPepsi[/127.253.85.87:43199] logged in with entity id 20 at (130.79390574356233, 91.0, -32.49801088416865)
+[00:00:32] [Server thread/INFO]: DonPepsi joined the game
+[00:04:08] [Server thread/INFO]: AVich0[/127.174.249.170:35861] logged in with entity id 998 at (-1624.1036173956093, 62.110764312744145, 863.9787874734931)
+[00:04:08] [Server thread/INFO]: AVich0 joined the game
+[00:04:31] [Server thread/INFO]: [Not Secure] <DonPepsi> kiubole gancho
+[00:04:38] [Server thread/INFO]: [Not Secure] <AVich0> hola
+[00:05:34] [Server thread/INFO]: [Not Secure] <DonPepsi> ponle shaders a tu coso
+[00:07:43] [Server thread/INFO]: [Not Secure] <DonPepsi> voy a tomar once
+[00:07:47] [Server thread/INFO]: [Not Secure] <DonPepsi> vuelvo al rato jeje
+[00:08:23] [Server thread/INFO]: [Not Secure] <DonPepsi> osea quedare afk
+[00:08:27] [Server thread/INFO]: [Not Secure] <DonPepsi> en la granja de creeper
+[00:08:31] [Server thread/INFO]: [Not Secure] <AVich0> yap
+[00:12:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1975, y=64, z=1477} jb{x=-1975, y=62, z=1478}
+[00:12:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1975, y=64, z=1477} jb{x=-1975, y=62, z=1478}
+[00:20:05] [Server thread/INFO]: DonPepsi lost connection: Timed out
+[00:20:05] [Server thread/INFO]: DonPepsi left the game
+[00:20:05] [Server thread/WARN]: handleDisconnection() called twice
+[00:26:13] [Server thread/INFO]: AVich0 lost connection: You logged in from another location
+[00:26:13] [Server thread/INFO]: AVich0 left the game
+[00:26:13] [Server thread/WARN]: handleDisconnection() called twice
+[00:26:14] [Server thread/INFO]: AVich0[/127.51.98.77:59447] logged in with entity id 18000 at (230.66994655480235, 62.28320550524427, 3105.7701563792416)
+[00:26:14] [Server thread/INFO]: AVich0 joined the game
