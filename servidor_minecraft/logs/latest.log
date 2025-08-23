@@ -38,3 +38,13 @@
 [04:15:34] [Server thread/INFO]: fofi[/127.237.38.199:45099] logged in with entity id 440 at (185.55435766401155, 58.0625, 36.261310368588006)
 [04:15:34] [Server thread/INFO]: fofi joined the game
 [04:18:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=127, y=87, z=-26} jb{x=127, y=86, z=-26}
+[04:25:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=121, y=85, z=-28} jb{x=119, y=86, z=-29}
+[04:26:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
+[04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
+[04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
+[04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
+[04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
+[04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
+[04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
+[04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
+[04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
