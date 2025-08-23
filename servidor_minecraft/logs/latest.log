@@ -48,3 +48,6 @@
 [04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
 [04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
 [04:26:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=128, y=88, z=-32} jb{x=129, y=87, z=-32}
+[05:01:00] [Server thread/INFO]: fofi was slain by Guardian
+[05:01:06] [Server thread/INFO]: fofi lost connection: Disconnected
+[05:01:06] [Server thread/INFO]: fofi left the game
