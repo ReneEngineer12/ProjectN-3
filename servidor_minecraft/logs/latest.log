@@ -51,3 +51,13 @@
 [17:36:58] [Server thread/INFO]: DonPepsi joined the game
 [17:50:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=124, y=74, z=-12} jb{x=124, y=73, z=-12}
 [17:50:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=124, y=74, z=-12} jb{x=124, y=73, z=-12}
+[17:59:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=139, y=73, z=-11} jb{x=139, y=72, z=-12}
+[17:59:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=139, y=73, z=-11} jb{x=139, y=72, z=-12}
+[18:01:51] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[18:01:51] [Server thread/INFO]: DonPepsi left the game
+[18:04:02] [Server thread/INFO]: DonPepsi[/127.237.38.199:58793] logged in with entity id 25230 at (127.57594743274029, 79.0, -30.865319319281117)
+[18:04:02] [Server thread/INFO]: DonPepsi joined the game
+[18:05:54] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[18:05:54] [Server thread/INFO]: DonPepsi left the game
+[18:05:59] [Server thread/INFO]: DonPepsi[/127.237.38.199:52587] logged in with entity id 26224 at (-162.94783290945762, 67.0, 34.48403966422769)
+[18:05:59] [Server thread/INFO]: DonPepsi joined the game
