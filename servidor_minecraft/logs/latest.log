@@ -1,22 +1,97 @@
-[00:00:32] [Server thread/INFO]: DonPepsi[/127.253.85.87:43199] logged in with entity id 20 at (130.79390574356233, 91.0, -32.49801088416865)
-[00:00:32] [Server thread/INFO]: DonPepsi joined the game
-[00:04:08] [Server thread/INFO]: AVich0[/127.174.249.170:35861] logged in with entity id 998 at (-1624.1036173956093, 62.110764312744145, 863.9787874734931)
-[00:04:08] [Server thread/INFO]: AVich0 joined the game
-[00:04:31] [Server thread/INFO]: [Not Secure] <DonPepsi> kiubole gancho
-[00:04:38] [Server thread/INFO]: [Not Secure] <AVich0> hola
-[00:05:34] [Server thread/INFO]: [Not Secure] <DonPepsi> ponle shaders a tu coso
-[00:07:43] [Server thread/INFO]: [Not Secure] <DonPepsi> voy a tomar once
-[00:07:47] [Server thread/INFO]: [Not Secure] <DonPepsi> vuelvo al rato jeje
-[00:08:23] [Server thread/INFO]: [Not Secure] <DonPepsi> osea quedare afk
-[00:08:27] [Server thread/INFO]: [Not Secure] <DonPepsi> en la granja de creeper
-[00:08:31] [Server thread/INFO]: [Not Secure] <AVich0> yap
-[00:12:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1975, y=64, z=1477} jb{x=-1975, y=62, z=1478}
-[00:12:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1975, y=64, z=1477} jb{x=-1975, y=62, z=1478}
-[00:20:05] [Server thread/INFO]: DonPepsi lost connection: Timed out
-[00:20:05] [Server thread/INFO]: DonPepsi left the game
-[00:20:05] [Server thread/WARN]: handleDisconnection() called twice
-[00:26:13] [Server thread/INFO]: AVich0 lost connection: You logged in from another location
-[00:26:13] [Server thread/INFO]: AVich0 left the game
-[00:26:13] [Server thread/WARN]: handleDisconnection() called twice
-[00:26:14] [Server thread/INFO]: AVich0[/127.51.98.77:59447] logged in with entity id 18000 at (230.66994655480235, 62.28320550524427, 3105.7701563792416)
-[00:26:14] [Server thread/INFO]: AVich0 joined the game
+[01:05:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:05:55] [ServerMain/INFO]: Loaded 1407 recipes
+[01:05:55] [ServerMain/INFO]: Loaded 1520 advancements
+[01:05:55] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:05:55] [Server thread/INFO]: Loading properties
+[01:05:55] [Server thread/INFO]: Default game type: SURVIVAL
+[01:05:55] [Server thread/INFO]: Generating keypair
+[01:05:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:05:55] [Server thread/INFO]: Using epoll channel type
+[01:05:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:05:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:05:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:05:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:05:55] [Server thread/INFO]: Preparing level "world"
+[01:05:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:06:05] [Server thread/INFO]: Time elapsed: 9025 ms
+[01:06:05] [Server thread/INFO]: Done (9.481s)! For help, type "help"
+[01:06:07] [Server thread/INFO]: DonPepsi[/127.253.85.87:51649] logged in with entity id 20 at (25.30000001192093, 188.0, -62.41087378923601)
+[01:06:07] [Server thread/INFO]: DonPepsi joined the game
+[01:08:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=100, y=89, z=-64} jb{x=104, y=89, z=-65}
+[01:09:12] [Server thread/INFO]: AVich0[/127.51.98.77:33017] logged in with entity id 1174 at (4829.320103121457, 66.17675927506424, 3047.6022900380954)
+[01:09:12] [Server thread/INFO]: AVich0 joined the game
+[01:18:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=115, y=70, z=-16} jb{x=110, y=74, z=-19}
+[01:29:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=137, y=82, z=-31} jb{x=138, y=81, z=-31}
+[01:31:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=143, y=83, z=-25} jb{x=143, y=83, z=-20}
+[01:32:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=143, y=81, z=-16} jb{x=143, y=80, z=-16}
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 10.31158555433467,0.0,-0.021202959598667803
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 10.702119449651946,0.0,-0.09028288746230828
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 11.092217724695729,0.0,-0.16287918059424555
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 11.481919940542866,0.0,-0.23865501227510322
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 11.871439160087903,0.0,-0.3166282558804596
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 12.226892405036779,0.0,-0.3878659777424218
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 12.546800317017187,0.0,-0.45197992571957
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 12.834717430172532,0.0,-0.5096824773704611
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 13.133485095801007,0.0,-0.5669523963597385
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 13.442124168401278,0.0,-0.6229766227966138
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 13.75972719099991,0.0,-0.6771053321763247
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 14.085456385826546,0.0,-0.7288325896965944
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 14.418541551620365,0.0,-0.7777710468822079
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 14.75827672206833,0.0,-0.8236366297210225
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 15.10401686410114,0.0,-0.8662269717819981
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 15.455173922888207,0.0,-0.9054095736946692
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 15.811212833914396,0.0,-0.9411149250286144
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 16.171647784851302,0.0,-0.973318769476009
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 16.536038355763594,0.0,-1.002041453820766
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 16.90398583296337,0.0,-1.0273281497943572
+[01:38:04] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! 17.275129816971457,0.0,-1.0492540510126673
+[01:38:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.405733442281417,0.0,1.1610091330162504
+[01:38:05] [Server thread/WARN]: Acacia Boat (vehicle of AVich0) moved too quickly! -10.018470538319889,0.0,1.1514509072067085
+[01:39:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=121, y=70, z=-5} jb{x=119, y=70, z=-4}
+[01:47:28] [Server thread/INFO]: [Not Secure] <DonPepsi> oye vichoo
+[01:47:32] [Server thread/INFO]: [Not Secure] <DonPepsi> ire a mi casa ahora
+[01:47:44] [Server thread/INFO]: [Not Secure] <AVich0> yap
+[01:47:47] [Server thread/INFO]: [Not Secure] <DonPepsi> asi que capaz que se cierrre en el rato que apague mi compu
+[01:47:52] [Server thread/INFO]: [Not Secure] <DonPepsi> pero lo prendo apenas llegue
+[01:48:01] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[01:48:01] [Server thread/INFO]: DonPepsi left the game
+[01:53:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=16108, y=64, z=3117} jb{x=16109, y=62, z=3118}
