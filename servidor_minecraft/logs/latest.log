@@ -41,3 +41,7 @@
 [16:30:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-283, y=69, z=363} jb{x=-283, y=68, z=363}
 [17:10:49] [Server thread/INFO]: fofi[/127.237.38.199:47305] logged in with entity id 9558 at (182.85452045757398, 68.0625, 32.713661107663285)
 [17:10:49] [Server thread/INFO]: fofi joined the game
+[17:22:30] [Server thread/INFO]: DonPepsi lost connection: Disconnected
+[17:22:30] [Server thread/INFO]: DonPepsi left the game
+[17:22:40] [Server thread/INFO]: DonPepsi[/127.237.38.199:58611] logged in with entity id 14045 at (128.93523562669972, 79.0, -32.420795189474674)
+[17:22:40] [Server thread/INFO]: DonPepsi joined the game
