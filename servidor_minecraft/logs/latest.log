@@ -88,3 +88,8 @@
 [20:51:52] [Server thread/INFO]: DonPepsi lost connection: Disconnected
 [20:51:52] [Server thread/INFO]: DonPepsi left the game
 [20:52:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:06:06] [Server thread/INFO]: fofi[/127.237.38.199:40841] logged in with entity id 65796 at (185.5, 63.0625, 32.5)
+[21:06:06] [Server thread/INFO]: fofi joined the game
+[21:06:06] [Server thread/INFO]: DonPepsi[/127.237.38.199:45961] logged in with entity id 65927 at (109.69999998807907, 53.0, -162.30000001192093)
+[21:06:06] [Server thread/INFO]: DonPepsi joined the game
+[21:10:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=104, y=64, z=-62} jb{x=74, y=73, z=-82}
