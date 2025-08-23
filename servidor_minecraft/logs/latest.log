@@ -69,3 +69,6 @@
 [18:45:09] [Server thread/INFO]: fofi left the game
 [19:54:32] [Server thread/INFO]: fofi[/127.237.38.199:58341] logged in with entity id 45758 at (188.37377962941892, 80.0, 45.20273855240349)
 [19:54:32] [Server thread/INFO]: fofi joined the game
+[20:04:28] [Server thread/WARN]: DonPepsi moved too quickly! -6.8837204054038565,0.0,7.499201718588958
+[20:04:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
+[20:08:54] [Server thread/INFO]: DonPepsi has made the advancement [Spooky Scary Skeleton]
