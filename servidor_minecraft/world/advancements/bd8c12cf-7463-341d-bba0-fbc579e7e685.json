@@ -1023,6 +1023,7 @@
       "minecraft:cave_spider": "2025-08-02 02:59:42 +0000",
       "minecraft:piglin": "2025-08-09 01:37:46 +0000",
       "minecraft:breeze": "2025-08-02 03:35:43 +0000",
+      "minecraft:vindicator": "2025-08-23 02:10:37 +0000",
       "minecraft:enderman": "2025-07-31 03:14:14 +0000",
       "minecraft:stray": "2025-08-02 03:21:02 +0000",
       "minecraft:magma_cube": "2025-08-14 02:06:17 +0000",
@@ -3972,6 +3973,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/resin_block": {
+    "criteria": {
+      "has_resin_clump": "2025-08-23 02:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-23 02:10:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-08-23 01:35:47 +0000"
@@ -3987,6 +4000,30 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-08-23 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-23 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-23 02:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/resin_brick": {
+    "criteria": {
+      "has_resin_clump": "2025-08-23 02:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-08-23 02:11:57 +0000"
     },
     "done": true
   },
