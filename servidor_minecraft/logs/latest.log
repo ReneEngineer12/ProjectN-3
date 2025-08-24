@@ -38,3 +38,4 @@
 [02:45:13] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [02:48:26] [Server thread/INFO]: DonPepsi[/127.237.38.199:47611] logged in with entity id 4422 at (160.01842562342418, -7.0, 360.90036656077734)
 [02:48:26] [Server thread/INFO]: DonPepsi joined the game
+[02:57:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=90, y=24, z=455} jb{x=115, y=41, z=505}
