@@ -1,98 +1,35 @@
-[16:17:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:17:59] [ServerMain/INFO]: Loaded 1407 recipes
-[16:17:59] [ServerMain/INFO]: Loaded 1520 advancements
-[16:17:59] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[16:17:59] [Server thread/INFO]: Loading properties
-[16:17:59] [Server thread/INFO]: Default game type: SURVIVAL
-[16:17:59] [Server thread/INFO]: Generating keypair
-[16:17:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:17:59] [Server thread/INFO]: Using epoll channel type
-[16:17:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:17:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:17:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:17:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:17:59] [Server thread/INFO]: Preparing level "world"
-[16:18:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:18:09] [Server thread/INFO]: Time elapsed: 9379 ms
-[16:18:09] [Server thread/INFO]: Done (9.784s)! For help, type "help"
-[16:19:09] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[16:23:35] [Server thread/INFO]: DonPepsi[/127.237.38.199:46773] logged in with entity id 20 at (-208.54132437900626, 63.875, 351.9770889046189)
-[16:23:35] [Server thread/INFO]: DonPepsi joined the game
-[16:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[16:30:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-283, y=69, z=363} jb{x=-283, y=68, z=363}
-[17:10:49] [Server thread/INFO]: fofi[/127.237.38.199:47305] logged in with entity id 9558 at (182.85452045757398, 68.0625, 32.713661107663285)
-[17:10:49] [Server thread/INFO]: fofi joined the game
-[17:22:30] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[17:22:30] [Server thread/INFO]: DonPepsi left the game
-[17:22:40] [Server thread/INFO]: DonPepsi[/127.237.38.199:58611] logged in with entity id 14045 at (128.93523562669972, 79.0, -32.420795189474674)
-[17:22:40] [Server thread/INFO]: DonPepsi joined the game
-[17:36:47] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[17:36:47] [Server thread/INFO]: DonPepsi left the game
-[17:36:58] [Server thread/INFO]: DonPepsi[/127.237.38.199:59653] logged in with entity id 18022 at (122.5097092039253, 78.0, -27.221358261785237)
-[17:36:58] [Server thread/INFO]: DonPepsi joined the game
-[17:50:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=124, y=74, z=-12} jb{x=124, y=73, z=-12}
-[17:50:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=124, y=74, z=-12} jb{x=124, y=73, z=-12}
-[17:59:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=139, y=73, z=-11} jb{x=139, y=72, z=-12}
-[17:59:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=139, y=73, z=-11} jb{x=139, y=72, z=-12}
-[18:01:51] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[18:01:51] [Server thread/INFO]: DonPepsi left the game
-[18:04:02] [Server thread/INFO]: DonPepsi[/127.237.38.199:58793] logged in with entity id 25230 at (127.57594743274029, 79.0, -30.865319319281117)
-[18:04:02] [Server thread/INFO]: DonPepsi joined the game
-[18:05:54] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[18:05:54] [Server thread/INFO]: DonPepsi left the game
-[18:05:59] [Server thread/INFO]: DonPepsi[/127.237.38.199:52587] logged in with entity id 26224 at (-162.94783290945762, 67.0, 34.48403966422769)
-[18:05:59] [Server thread/INFO]: DonPepsi joined the game
-[18:17:36] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[18:17:36] [Server thread/INFO]: DonPepsi left the game
-[18:17:45] [Server thread/INFO]: DonPepsi[/127.237.38.199:56129] logged in with entity id 30642 at (123.3962916175513, 78.9375, -17.47713694260789)
-[18:17:45] [Server thread/INFO]: DonPepsi joined the game
-[18:45:09] [Server thread/INFO]: fofi lost connection: Disconnected
-[18:45:09] [Server thread/INFO]: fofi left the game
-[19:54:32] [Server thread/INFO]: fofi[/127.237.38.199:58341] logged in with entity id 45758 at (188.37377962941892, 80.0, 45.20273855240349)
-[19:54:32] [Server thread/INFO]: fofi joined the game
-[20:04:28] [Server thread/WARN]: DonPepsi moved too quickly! -6.8837204054038565,0.0,7.499201718588958
-[20:04:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
-[20:08:54] [Server thread/INFO]: DonPepsi has made the advancement [Spooky Scary Skeleton]
-[20:34:50] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[20:34:50] [Server thread/INFO]: DonPepsi left the game
-[20:35:23] [Server thread/INFO]: God[/127.237.38.199:57583] logged in with entity id 61160 at (20.559580056921988, 33.15814676123661, 24.30000001192093)
-[20:35:23] [Server thread/INFO]: God joined the game
-[20:35:41] [Server thread/INFO]: God has made the advancement [A Terrible Fortress]
-[20:35:52] [Server thread/INFO]: [God: Teleported God to 0.500000, 61.000000, 0.500000]
-[20:41:50] [Server thread/INFO]: DonPepsi[/127.237.38.199:42359] logged in with entity id 63658 at (207.38485980299853, 30.25541853689005, -155.40386067845256)
-[20:41:51] [Server thread/INFO]: DonPepsi joined the game
-[20:42:05] [Server thread/INFO]: fofi lost connection: Timed out
-[20:42:05] [Server thread/INFO]: fofi left the game
-[20:42:06] [Server thread/WARN]: handleDisconnection() called twice
-[20:42:20] [Server thread/INFO]: God lost connection: Disconnected
-[20:42:20] [Server thread/INFO]: God left the game
-[20:51:52] [Server thread/INFO]: DonPepsi lost connection: Disconnected
-[20:51:52] [Server thread/INFO]: DonPepsi left the game
-[20:52:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:06:06] [Server thread/INFO]: fofi[/127.237.38.199:40841] logged in with entity id 65796 at (185.5, 63.0625, 32.5)
-[21:06:06] [Server thread/INFO]: fofi joined the game
-[21:06:06] [Server thread/INFO]: DonPepsi[/127.237.38.199:45961] logged in with entity id 65927 at (109.69999998807907, 53.0, -162.30000001192093)
-[21:06:06] [Server thread/INFO]: DonPepsi joined the game
-[21:10:49] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=104, y=64, z=-62} jb{x=74, y=73, z=-82}
-[21:23:37] [Server thread/INFO]: DonPepsi has made the advancement [Withering Heights]
-[21:35:41] [Server thread/INFO]: fofi lost connection: Disconnected
-[21:35:41] [Server thread/INFO]: fofi left the game
+[02:24:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:24:38] [ServerMain/INFO]: Loaded 1407 recipes
+[02:24:38] [ServerMain/INFO]: Loaded 1520 advancements
+[02:24:39] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:24:39] [Server thread/INFO]: Loading properties
+[02:24:39] [Server thread/INFO]: Default game type: SURVIVAL
+[02:24:39] [Server thread/INFO]: Generating keypair
+[02:24:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:24:39] [Server thread/INFO]: Using epoll channel type
+[02:24:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:24:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:24:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:24:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:24:39] [Server thread/INFO]: Preparing level "world"
+[02:24:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:24:48] [Server thread/INFO]: Time elapsed: 8018 ms
+[02:24:48] [Server thread/INFO]: Done (8.557s)! For help, type "help"
+[02:24:55] [Server thread/INFO]: DonPepsi[/127.237.38.199:40297] logged in with entity id 21 at (-65.97058749240419, -53.0, 441.41458120046195)
+[02:24:55] [Server thread/INFO]: DonPepsi joined the game
