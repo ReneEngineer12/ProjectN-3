@@ -3379,5 +3379,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-25 19:01:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
